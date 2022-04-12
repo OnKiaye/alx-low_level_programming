@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * _islower - Short description, single line
+ * @c: contains value to be compared
+ * Return: Always 0.
  */
 int _islower(int c)
 
