@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
-*times_table - prints the  times table with
+*print_times_table - prints the  times table with
 *parameter
 *@n: parameter
 *Return: returns nothing
 */
-void times_table(int n)
+void print_times_table(int n)
 {
 int digit, mult, result;
 if (n <= 15 && n >= 0)
